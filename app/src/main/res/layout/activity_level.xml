@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_level"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/back"
     tools:context="com.example.travisho.codebuilder.Level">
 
     <android.support.v7.widget.GridLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/grid_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/activity_horizontal_margin"
-        app:columnCount="1"
-        />
+        app:columnCount="4"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="152dp" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:srcCompat="@drawable/green_circle"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="70dp"
+        android:layout_marginBottom="104dp"
+        android:id="@+id/firstCircle" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:srcCompat="@drawable/green_circle"
+        android:layout_alignTop="@+id/firstCircle"
+        android:layout_toEndOf="@+id/firstCircle"
+        android:layout_marginStart="135dp"
+        android:id="@+id/secondCircle" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:srcCompat="@drawable/green_circle"
+        android:layout_alignTop="@+id/secondCircle"
+        android:layout_toEndOf="@+id/secondCircle"
+        android:layout_marginStart="135dp"
+        android:id="@+id/thirdCircle" />
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        app:srcCompat="@drawable/green_circle"
+        android:layout_alignTop="@+id/thirdCircle"
+        android:layout_toEndOf="@+id/thirdCircle"
+        android:layout_marginStart="135dp"
+        android:id="@+id/fourthCircle" />
+
+
 </RelativeLayout>
