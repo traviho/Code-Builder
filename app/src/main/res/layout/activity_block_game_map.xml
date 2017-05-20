@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_block_game_map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="com.example.travisho.codebuilder.BlockGameMap">
+
+    <TextView
+        android:text="Select Level"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:id="@+id/level_select_text"
+        android:textSize="70sp"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        app:srcCompat="@drawable/blocls"
+        android:id="@+id/block1"
+        android:layout_width="wrap_content"
+        android:scaleType="fitCenter"
+        android:layout_height="600dp"
+        android:layout_below="@+id/level_select_text"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="36dp" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginBottom="26dp"
+        android:id="@+id/button2"
+        android:layout_above="@+id/button"
+        android:layout_alignLeft="@+id/button"
+        android:layout_alignStart="@+id/button"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_marginBottom="16dp"
+        android:id="@+id/button"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@+id/block1"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="100dp"
+        android:id="@+id/button3"
+        android:layout_height="100dp"
+        android:layout_above="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:background="#00000000" />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/button4"
+        android:layout_above="@+id/button3"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignStart="@+id/button3"
+        android:layout_height="150dp"
+        android:background="#00000000" />
+
+</RelativeLayout>
