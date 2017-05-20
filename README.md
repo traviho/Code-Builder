@@ -6,4 +6,4 @@ Others, including magnetic attachment and blocks are in /models.
 
 App example contains bubble sort.
 
-![crane holding block](/models/crane-image.JPG?raw=true "crane holding block")
+![crane holding block](/models/crane-image.jpg?raw=true "crane holding block")
