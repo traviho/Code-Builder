@@ -1,2 +1,7 @@
 # code-builder
-Program a crane that can teach sorting algorithms, data structures, and fun math problems.
+Program a robotic arm / crane thing that can teach sorting algorithms, data structures, and fun math problems!
+
+Most of files for 3D printing can be found- https://www.thingiverse.com/thing:1015238
+Others, including magnetic attachment and blocks are in /models.
+
+
