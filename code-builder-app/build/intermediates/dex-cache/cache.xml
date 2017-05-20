@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_b0c440299f78d86a25bc835c2ac4d9dabf13e0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_0a3e1726361f7094561368ae16e7be36dc419bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_9e3cfa4682daeacb31615b16b81c69d160dd0ffe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_15496b6396d3824dbc9299f3e8921092e51a68f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_cc9e2fefad40cd2688a6e11fb65b735fa7ca1cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_b5b1d5fa2aa4cd6c0e9ee5c27e8b11bbbe6f00fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_78134d703ba92048ec7ce7852949ac3a7b508f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_a821599bddb04cb14c70b91759aeb47ed3ddff82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Documents\android\code-builder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Documents\android\code-builder\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_acf73a25e64060cee50c63ff15e687d6b1674113.jar" />
+    </item>
+
+</items>
